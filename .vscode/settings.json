@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "boundary",
+    "files.exclude": {
+      "build": true,
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+}
